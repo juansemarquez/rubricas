@@ -19,3 +19,13 @@ evaluar.
 ## Captura de pantalla
 
 ![Imagen de la aplicación para evaluar exámenes con rúbricas](captura.png)
+
+## Pendiente
+
+- Hacer una interfaz para armar la config desde la web, que genere un output
+como JSON.
+- Hacer que la rúbrica permita subir la config como json (¿guardarla como una
+variable de sesión?).
+- Una vez hechos los items anteriores, no hace falta que esté selfhosteado, se
+puede hostear en algún lado.
+- Agregar un input que permita dejar un comentario en cada item.
